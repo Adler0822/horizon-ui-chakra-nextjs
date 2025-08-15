@@ -1,10 +1,10 @@
 'use client';
 // Chakra imports
 import {
-  Portal,
   Box,
-  useDisclosure,
+  Portal,
   useColorModeValue,
+  useDisclosure,
 } from '@chakra-ui/react';
 import Footer from 'components/footer/FooterAdmin';
 // Layout components
